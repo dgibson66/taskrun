@@ -39,6 +39,7 @@ from .FileModificationCondition import FileModificationCondition
 from .FunctionCondition import FunctionCondition
 from .FunctionTask import FunctionTask
 from .GridTask import GridTask
+from .LSFTask import LSFTask
 from .MemoryResource import MemoryResource
 from .NopTask import NopTask
 from .Observer import Observer
